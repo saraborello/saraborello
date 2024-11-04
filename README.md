@@ -1,7 +1,7 @@
 
-👋 Hi, I’m @saraborello
-👀 I'm interested in: Deep Learning, Neuro-Symbolic AI (NeSy), and Geospatial Data
-🌱 Currently studying: MSc in Data Science @Unimib (previously completed BSc in Statistics @Unimib)
+- 👋 Hi, I’m @saraborello
+- 👀 I'm interested in: Deep Learning, Neuro-Symbolic AI (NeSy), and Geospatial Data
+- 🌱 Currently studying: MSc in Data Science @Unimib (previously completed BSc in Statistics @Unimib)
 
 <!--
 **saraborello/saraborello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
